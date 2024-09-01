@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.brigita.dragons.of.mugloar.services.GameServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-01T21:49:26" hostname="Brigitas-MacBook-Pro.local" time="0.012">
-  <properties/>
-  <testcase name="successfullySelectSimpleMessage()" classname="com.brigita.dragons.of.mugloar.services.GameServiceTest" time="0.012"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
