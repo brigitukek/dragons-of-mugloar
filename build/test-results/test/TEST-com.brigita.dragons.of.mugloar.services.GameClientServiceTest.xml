@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.brigita.dragons.of.mugloar.services.GameClientServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-01T21:49:25" hostname="Brigitas-MacBook-Pro.local" time="0.165">
+  <properties/>
+  <testcase name="throwExceptionWhenClientReturnsOne()" classname="com.brigita.dragons.of.mugloar.services.GameClientServiceTest" time="0.155"/>
+  <testcase name="returnResultWhenBadRequestExceptionThrown()" classname="com.brigita.dragons.of.mugloar.services.GameClientServiceTest" time="0.005"/>
+  <testcase name="successfullySolveMessage()" classname="com.brigita.dragons.of.mugloar.services.GameClientServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

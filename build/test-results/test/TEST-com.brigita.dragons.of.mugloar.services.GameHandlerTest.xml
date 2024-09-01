@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.brigita.dragons.of.mugloar.services.GameHandlerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-09-01T21:49:25" hostname="Brigitas-MacBook-Pro.local" time="0.068">
+  <properties/>
+  <testcase name="successfullyPlayGameAndBuyPotion()" classname="com.brigita.dragons.of.mugloar.services.GameHandlerTest" time="0.05"/>
+  <testcase name="failPlayGame()" classname="com.brigita.dragons.of.mugloar.services.GameHandlerTest" time="0.003"/>
+  <testcase name="successfullyPlayGameAndButNotSharpenClaws()" classname="com.brigita.dragons.of.mugloar.services.GameHandlerTest" time="0.003"/>
+  <testcase name="successfullyPlayGameAndButNotBuyPotion()" classname="com.brigita.dragons.of.mugloar.services.GameHandlerTest" time="0.004"/>
+  <testcase name="successfullyPlayGame()" classname="com.brigita.dragons.of.mugloar.services.GameHandlerTest" time="0.003"/>
+  <testcase name="successfullyPlayGameAndSharpenClaws()" classname="com.brigita.dragons.of.mugloar.services.GameHandlerTest" time="0.003"/>
+  <system-out><![CDATA[Started to play game with id gameId
+Game gameId result after turn 0: lives=2, level=0, gold=30, score=20
+Game gameId result after turn 0: lives=3, level=0, gold=30, score=1001
+You won the game with score 1001!
+Started to play game with id gameId
+Game gameId result after turn 0: lives=0, level=0, gold=30, score=55
+Game lost. Final score: 55
+Started to play game with id gameId
+Game gameId result after turn 0: lives=3, level=0, gold=30, score=1001
+You won the game with score 1001!
+Started to play game with id gameId
+Game gameId result after turn 0: lives=3, level=0, gold=30, score=1001
+You won the game with score 1001!
+Started to play game with id gameId
+Game gameId result after turn 0: lives=3, level=0, gold=30, score=1001
+You won the game with score 1001!
+Started to play game with id gameId
+Game gameId result after turn 0: lives=3, level=0, gold=244, score=0
+Game gameId result after turn 0: lives=3, level=0, gold=30, score=1001
+You won the game with score 1001!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

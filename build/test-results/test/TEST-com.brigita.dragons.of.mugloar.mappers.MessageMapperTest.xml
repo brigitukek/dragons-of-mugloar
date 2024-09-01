@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.brigita.dragons.of.mugloar.mappers.MessageMapperTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-01T21:49:25" hostname="Brigitas-MacBook-Pro.local" time="0.014">
+  <properties/>
+  <testcase name="mapFromDtoWhenListIsEmpty()" classname="com.brigita.dragons.of.mugloar.mappers.MessageMapperTest" time="0.002"/>
+  <testcase name="mapFromDtoWhenEncode1()" classname="com.brigita.dragons.of.mugloar.mappers.MessageMapperTest" time="0.01"/>
+  <testcase name="mapFromDtoWhenEncode2()" classname="com.brigita.dragons.of.mugloar.mappers.MessageMapperTest" time="0.001"/>
+  <testcase name="mapFromDtoWhenEncodeNull()" classname="com.brigita.dragons.of.mugloar.mappers.MessageMapperTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
